@@ -1,9 +1,7 @@
-google-api-python-client
-google-auth-httplib2
-google-auth-oauthlib
 pandas
 requests
 beautifulsoup4
-streamlit
 pytz
-streamlit-scroll-to-top
+anvil-uplink
+gspread
+oauth2client

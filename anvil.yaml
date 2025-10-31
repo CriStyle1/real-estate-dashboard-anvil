@@ -1,0 +1,10 @@
+app_name: REDB-Anvil
+app_id: 
+
+services:
+- name: anvil.server
+  id: 
+- name: anvil.http
+  id: 
+
+client_startup_form: Form1
