@@ -8,3 +8,20 @@ services:
   id: 
 
 client_startup_form: Form1
+
+data_tables:
+  # Add your data tables here, for example:
+  # - name: my_table
+  #   columns:
+  #   - name: my_column
+  #     type: text
+
+secrets:
+  # Add your secrets here, for example:
+  # - name: my_secret
+  #   value: my_secret_value
+
+remotes:
+  # Add your remotes here, for example:
+  # - name: origin
+  #   url: https://github.com/user/repo.git
