@@ -1,0 +1,129 @@
+key,en,ru
+page_title,Real Estate Dashboard,Дашборд Недвижимости
+navigation_title,Navigation,Навигация
+menu_apartment_info,Apartment & Realtor Info,Информация об Апартаментах и Риелторах
+menu_utilities,Utilities,Коммунальные Услуги
+menu_reports,Generate Reports,Генерация Отчетов
+menu_communication,Client Communication,Коммуникация с Клиентами
+menu_settings,System & Settings,Система и Настройки
+main_title,🏢 Real Estate Business Dashboard,🏢 Дашборд Бизнеса Недвижимости
+apartment_header,🕵️ Apartment & Realtor Info,🕵️ Информация об Апартаментах и Риелторах
+apartment_input_label,Enter an Apartment Code:,Введите Код Апартаментов:
+apartment_input_placeholder,"e.g., POL72-046","например, POL72-046"
+apartment_button_get_details,Get Details,Получить Детали
+apartment_actions_subheader,Actions for {ap_code},Действия для {ap_code}
+apartment_button_calculate_utilities,🖩 Calculate Utilities,🖩 Рассчитать Коммунальные Услуги
+apartment_button_master_report,📜 Generate Master Report,📜 Сгенерировать Основной Отчет
+apartment_button_email_log,📧 View Email Log,📧 Просмотреть Журнал Email
+apartment_details_subheader,Apartment Details,Детали Апартаментов
+apartment_client_location,##### Client & Location,##### Клиент и Местоположение
+apartment_address,**Address:**,**Адрес:**
+apartment_realtor,**Realtor:**,**Риелтор:**
+apartment_client_email,**Client Email:**,**Email Клиента:**
+apartment_client_phone,**Client Phone:**,**Телефон Клиента:**
+apartment_contract_rent,##### Contract & Rent,##### Договор и Аренда
+apartment_contract_start,**Contract Start:**,**Начало Договора:**
+apartment_contract_end,**Contract End:**,**Конец Договора:**
+apartment_rent,**Rent:**,**Аренда:**
+apartment_deposit,**Deposit:**,**Залог:**
+apartment_more_details,Show More Details,Показать Больше Деталей
+apartment_financials,##### Financials,##### Финансы
+apartment_rent_suggestion,**Rent Suggestion:**,**Предложение по Аренде:**
+apartment_last_pay,**Last Pay:**,**Последний Платеж:**
+apartment_utility_pricing,##### Utility Pricing,##### Цены на Коммунальные Услуги
+apartment_electricity_price,**Electricity Price:**,**Цена Электричества:**
+apartment_gas_price,**Gas Price:**,**Цена Газа:**
+apartment_status_notes,##### Status & Notes,##### Статус и Заметки
+apartment_contract_status,**Contract Status:**,**Статус Договора:**
+apartment_notes,**Notes:**,**Заметки:**
+apartment_not_found,Apartment with code `{ap_code}` not found.,Апартаменты с кодом `{ap_code}` не найдены.
+utilities_header,🖩 Utilities Calculator,🖩 Калькулятор Коммунальных Услуг
+utilities_input_label,Enter Apartment Code:,Введите Код Апартаментов:
+utilities_input_placeholder,"e.g., CLJ55-001","например, CLJ55-001"
+utilities_checkbox_include_rent,Include rent in the final calculation?,Включить аренду в итоговый расчет?
+utilities_button_calculate,Calculate Utilities,Рассчитать Коммунальные Услуги
+reports_header,📜 Generate Reports,📜 Генерация Отчетов
+reports_tab_master,Master Report,Основной Отчет
+reports_tab_batch,Batch Report,Пакетный Отчет
+reports_master_input_label,Enter a single Apartment Code:,Введите Один Код Апартаментов:
+reports_master_input_placeholder,"e.g., POL72-046","например, POL72-046"
+reports_master_button,Generate Master Report,Сгенерировать Основной Отчет
+reports_batch_input_label,Apartment Codes:,Коды Апартаментов:
+reports_batch_input_placeholder,"POL72-046\nCLJ55-001\n...","POL72-046\nCLJ55-001\n..."
+reports_batch_button,Generate Batch Report,Сгенерировать Пакетный Отчет
+communication_header,📧 Client Communication,📧 Коммуникация с Клиентами
+communication_tab_find_ap,Find AP Code by Email,Найти Код AP по Email
+communication_tab_find_email,Find Email by AP Code,Найти Email по Коду AP
+communication_find_ap_subheader,Find an Apartment Code using the client's email address,Найти Код Апартаментов по Email Клиента
+communication_find_ap_input_label,Enter Client Email:,Введите Email Клиента:
+communication_find_ap_input_placeholder,"e.g., client.name@email.com","например, client.name@email.com"
+communication_find_ap_button,Find by Email,Найти по Email
+communication_find_email_subheader,Find a client's email address using the Apartment Code,Найти Email Клиента по Коду Апартаментов
+communication_find_email_input_label,Enter Apartment Code:,Введите Код Апартаментов:
+communication_find_email_input_placeholder,"e.g., POL72-046","например, POL72-046"
+communication_find_email_button,Find by AP Code,Найти по Коду AP
+settings_header,⚙️ System & Settings,⚙️ Система и Настройки
+settings_data_status,Data Status,Статус Данных
+settings_sheets_loaded,Sheets Data Last Loaded,Данные Таблиц Последний Раз Загружены
+settings_folders_cached,Drive Folders Last Cached,Папки Диска Последний Раз Закэшированы
+settings_current_settings,Current Settings,Текущие Настройки
+settings_update_settings,Update Settings,Обновить Настройки
+settings_select_setting,Select setting to change:,Выберите Настройку для Изменения:
+settings_enter_value,Enter new value for {key}:,Введите Новое Значение для {key}:
+settings_save_button,Save Setting,Сохранить Настройку
+settings_system_actions,System Actions,Системные Действия
+settings_sync_rate,💶 Sync EUR-RON Exchange Rate,💶 Синхронизировать Курс EUR-RON
+settings_refresh_data,🔄 Force Refresh All Sheet Data,🔄 Принудительно Обновить Все Данные Таблиц
+todo_header,✅ Smart To-Do List,✅ Умный Список Задач
+todo_date_range_header,Select Date Range,Выберите Диапазон Дат
+todo_from_date,From,От
+todo_to_date,To,До
+todo_generate_button,🚀 Generate List for Date Range,🚀 Сгенерировать Список
+todo_manage_expander,➕ Manage List / Save Changes,➕ Управление Списком / Сохранить
+todo_save_button,💾 Save All Changes to Google Drive,💾 Сохранить Все Изменения в Google Drive
+todo_manual_add_label,AP Code to add manually:,Добавить Код АП вручную:
+todo_manual_add_button,Add Code,Добавить
+todo_filter_agent_header,Filter by Agent,Фильтр по Агенту
+todo_empty_list,Your to-do list is empty for the selected date range. Try generating a new list.,Ваш список задач пуст для выбранного диапазона дат. Попробуйте сгенерировать новый список.
+todo_no_tasks_for_agent,No tasks found for {agent} in the selected date range.,Для {agent} в выбранном диапазоне дат задачи не найдены.
+todo_tab_unpaid,🔴 Unpaid ({count}),🔴 Неоплаченные ({count})
+todo_tab_checkouts,🚪 Check-outs ({count}),🚪 Выезды ({count})
+todo_tab_paid,🟢 Recently Paid ({count}),🟢 Недавно Оплаченные ({count})
+todo_tab_manual,✍️ Manual ({count}),✍️ Добавленные вручную ({count})
+todo_unpaid_empty,No unpaid rent tasks in this period.,Нет неоплаченных задач по аренде в этом периоде.
+todo_checkouts_empty,No upcoming check-outs in this period.,Нет предстоящих выездов в этом периоде.
+todo_paid_empty,No recently paid tasks in this period.,Нет недавно оплаченных задач в этом периоде.
+todo_manual_empty,No manually added tasks.,Нет задач добавленных вручную.
+todo_item_remove,❌ Remove,❌ Удалить
+todo_item_last_transaction,Last Transaction,Последняя Транзакция
+todo_item_last_ut,Last UT Reading,Последние Показания
+todo_item_notes,Notes:,Заметки:
+todo_item_mark_checked,✔️ Mark as Checked,✔️ Отметить как Проверенное
+todo_item_last_checked,Last checked,Последняя проверка
+todo_completed_expander,✅ Recently Completed ({count}),✅ Недавно Завершенные ({count})
+todo_completed_empty,No tasks have been completed yet.,Завершенных задач пока нет.
+todo_action_required,Action Required,Требуется Действие
+todo_all_completed,All unpaid tasks are completed for now.,Все неоплаченные задачи на данный момент выполнены.
+todo_show_email,📧 Show Last Email Log,📧 Показать Последний Email
+todo_fetching_email,Fetching email log...,Загрузка журнала email...
+todo_no_email_log,No email logs found for {ap_code}.,Для {ap_code} не найдено записей в журнале email.
+todo_search_placeholder,Select an AP code to filter...,Выберите код АП для фильтрации...
+todo_filter_ap,🔍 Filter by AP Code:,🔍 Фильтр по Коду АП:
+todo_manual_add_expander,➕ Manually Add an Apartment,➕ Добавить Апартаменты Вручную
+menu_home,🏠 Home,🏠 Главная
+home_header,🌟 Welcome to your Dashboard,🌟 Добро пожаловать в ваш Дашборд
+home_subheader,"Select an option from the sidebar to get started.","Выберите опцию в боковом меню, чтобы начать."
+todo_refresh_ut_button,⚡ Refresh UT_DATA,⚡ Обновить UT_DATA
+home_company_metrics_expander,Show Total Company Metrics,Показать Общие Метрики Компании
+home_metric_total_apartments,Total Apartments Managed,Всего Апартаментов в Управлении
+home_metric_active_contracts,Active Contracts,Активные Контракты
+home_metric_total_rent,Total Monthly Rent,Общая Месячная Аренда
+home_metric_checkouts,Check-outs (Next 30 Days),Выезды (Следующие 30 дней)
+home_metrics_error,Could not calculate company metrics. Please check the APARTMENTS sheet structure.,Не удалось рассчитать метрики компании. Пожалуйста проверьте структуру листа APARTMENTS.
+home_personal_header,Khrystyna Markin's Portfolio,Портфолио Кристины Маркин
+home_metric_your_contracts,Your Active Contracts,Ваши Активные Контракты
+home_metric_your_rent,Your Total Monthly Rent,Ваша Общая Месячная Аренда
+home_metric_your_checkouts,Your Check-outs (Next 30 Days),Ваши Выезды (Следующие 30 дней)
+home_personal_metrics_error,Could not calculate personal metrics for Khrystyna Markin.,Не удалось рассчитать персональные метрики для Кристины Маркин.
+home_action_items_header,Action Items for You,Ваши Задачи к Выполнению
+home_no_action_items,✅ No urgent action items for you right now. Great job!,✅ Срочных задач для вас сейчас нет. Отличная работа!
